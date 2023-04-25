@@ -11,7 +11,7 @@ body{
     height: 3rem;
     width: 51rem;
     margin: 0 auto;
-    border-radius: 0px 7px 0px 7px;
+    border-radius: 7px 7px 0px 0px;
     padding: 1rem;
     top: 0rem;
     position: relative;
@@ -235,6 +235,7 @@ background-color: white;
     top: 1rem;
 }
 .youtube {
+    border-radius:1.3rem;
     position: relative;
     height: 3rem;
     width: 3rem;
