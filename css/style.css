@@ -21,16 +21,13 @@ body{
     h3{
         text-align: center;
         padding-top: 1rem;
-        border-bottom: 4px dotted rgb(20, 9, 9);
+        padding-bottom: 0.7rem;
     }
     span{
         color: #4d4949;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     }
-    .bio_name{
-        padding: 0.4rem;
-        text-align: justify;
-    }
+    
     
 .header_style{
     text-decoration: none;
